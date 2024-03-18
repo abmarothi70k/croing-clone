@@ -1,0 +1,39 @@
+new html   
+
+   
+    <div id="hero2">
+        <div id="hero2left">
+            <h1>ABOUT</h1></div>
+        <div id="hero2right"> 
+            <div id="heroine1underline" class="heroine1">
+                <h2>Creative & Social Media Agency.</h2>
+            </div>
+            <div id="heroine2underline" class="heroine2"> 
+                <p>We bring brands closer to people by offering Social Media, Paid Media on Socials, Content Production, Branding, US Hispanic and Multicultural Marketing, and Web Design. We specialize in turning insights into powerful ideas and consistently pursue innovation across all platforms.</p>
+            </div>
+            <div id="heroine3underline" class="heroine3">
+                  <div id="location"><img src="pin.png" alt=""></div>
+                <h3> NYC, MIAMI & LA — FOUNDED BY ALEJANDRA SALAZAR.
+                    PART OF THE .1% OF WOMEN-OWNED CREATIVE AGENCIES.</h3>
+                    <div id="book"><button id="booknow" ><p>BOOKNOW</p></buttton></div>        
+            </div>
+ 
+           </div> 
+    </div>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
